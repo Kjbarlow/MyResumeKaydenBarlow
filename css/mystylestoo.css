@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(241, 219, 190);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.bold{
+    font-weight: bold;
+    font-style: italic;
+}
+li{
+    font-style: normal;
+    font-weight: normal;
+}
+
+.important{
+    background-color: black;
+    padding: 20px;
+    color: white;
+    
+
+}
+
+.text{
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: normal;
+}
+
+
+
